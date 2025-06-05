@@ -1,0 +1,42 @@
+[
+  {
+    "ApplicationId": "27baae1d-ba8f-463f-8fad-6ee1841957c4",
+    "StudentId": "string",
+    "FormType": "CompletionProgramme",
+    "Status": "Pending",
+    "SubmissionDate": "2025-06-05T01:36:17.1641309Z",
+    "IsQualified": false
+  },
+  {
+    "ApplicationId": "42001be3-b37f-4334-bdf4-1a9f383c5ed9",
+    "StudentId": "12345",
+    "FormType": "CompletionProgramme",
+    "Status": "Pending",
+    "SubmissionDate": "2025-06-05T01:36:24.8442172Z",
+    "IsQualified": false
+  },
+  {
+    "ApplicationId": "e9a34394-fea2-4730-9c12-073bd79f29f7",
+    "StudentId": "12345",
+    "FormType": "Reconsideration",
+    "Status": "Pending",
+    "SubmissionDate": "2025-06-05T02:23:28.8440957Z",
+    "IsQualified": false
+  },
+  {
+    "ApplicationId": "991f4679-8ed8-435f-a0a2-5c3d00a07c69",
+    "StudentId": "12345",
+    "FormType": "CompassionateAegrotat",
+    "Status": "Pending",
+    "SubmissionDate": "2025-06-05T02:23:45.4714212Z",
+    "IsQualified": false
+  },
+  {
+    "ApplicationId": "06f07be7-e396-4124-b6cf-4a3a4d3a260c",
+    "StudentId": "12345",
+    "FormType": "CompletionProgramme",
+    "Status": "Pending",
+    "SubmissionDate": "2025-06-05T02:23:51.4022371Z",
+    "IsQualified": false
+  }
+]

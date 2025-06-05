@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.36105.23 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalFormsMicroserviceMain", "ExternalFormsMicroserviceMain.csproj", "{682D1CC3-58F7-4753-836D-EB7109B4E373}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{682D1CC3-58F7-4753-836D-EB7109B4E373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{682D1CC3-58F7-4753-836D-EB7109B4E373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{682D1CC3-58F7-4753-836D-EB7109B4E373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{682D1CC3-58F7-4753-836D-EB7109B4E373}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBA1D95E-D61A-4806-845A-F3D6739B1B03}
+	EndGlobalSection
+EndGlobal
