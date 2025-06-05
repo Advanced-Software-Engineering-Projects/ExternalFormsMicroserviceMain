@@ -15,13 +15,7 @@ The External Forms Microservice is designed to manage, process, and store data f
 
 ## Technologies Used
 
-- Programming Language: (Specify language, e.g., Python, Java, Node.js)
-- Framework: (Specify framework, e.g., Spring Boot, Express.js, Flask)
-- Database: (Specify database, e.g., PostgreSQL, MongoDB, MySQL)
-- Other: (Add any additional technologies or tools)
+- Programming Language: (C#)
+- Framework: ASP.NET Core
+- Database: (Used a flat file .json)
 
-## Getting Started
-
-### Prerequisites
-
-- (List required software, e.g., Node.js, Java, Docker)
