@@ -1,6 +1,0 @@
-@ExternalFormsMicroserviceMain_HostAddress = http://localhost:5085
-
-GET {{ExternalFormsMicroserviceMain_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
