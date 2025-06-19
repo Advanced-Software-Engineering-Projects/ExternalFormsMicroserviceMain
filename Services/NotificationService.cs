@@ -14,6 +14,7 @@
             // Simulate sending email
             await Task.Delay(100);
             Console.WriteLine($"Email sent to student {studentId}: {message}");
+
         }
     }
 }
